@@ -1,0 +1,15 @@
+[Fields]
+Tower = "Tårn"                               # 2
+Crater = "Krater"                            # 3
+"Palace Gates" = "Paladsportene"             # 4
+"Cold Desert" = "Kold Ørken"                 # 5
+"Walled City" = "Muret By"                   # 6
+Monastery = "Kloster"                        # 7
+"Black Cave" = "Sort Grotte"                 # 8
+"Huts in the mountain" = "Hytter i bjergene" # 9
+"The Werewall"  = "Varulvvæggen"             # 10
+"The pit" = "Gruben"                         # 11
+Goldmine = "Guldmine"                        # 12
+
+[Output]
+player_turn = "Det er player %d's tur"

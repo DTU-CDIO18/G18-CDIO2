@@ -1,0 +1,17 @@
+[Fields]
+# ? Should a roll of 1 do nothing?
+Tower = "Tower"                                 # 2
+Crater = "Crater"                               # 3
+"Palace Gates" = "Palace Gates"                 # 4
+"Cold Desert" = "Cold Desert"                   # 5
+"Walled City" = "Walled City"                   # 6
+Monastery = "Monastery"                         # 7
+"Black Cave" = "Black Cave"                     # 8
+"Huts in the mountain" = "Huts in the mountain" # 9
+"The Werewall"  = "Werewall"                    # 10
+"The pit" = "The pit"                           # 11
+Goldmine = "Goldmine"                           # 12 
+
+[Output]
+player_turn = "It's player %d's turn"
+game_over = "%s wins!"
