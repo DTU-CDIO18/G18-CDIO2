@@ -78,7 +78,7 @@ public class TranslationManager {
      * TODO: Remove before merging into dev
      */
     public static void main(String[] args) {
-        TranslationManager lcfg = new TranslationManager("./././././././././././resources/lang/dk.toml");
+        TranslationManager lcfg = new TranslationManager("./resources/lang/dk.toml");
 
         System.out.println(lcfg.get(Field.Tower));
 
