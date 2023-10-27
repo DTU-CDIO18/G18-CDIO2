@@ -1,0 +1,19 @@
+Message.ASK_FOR_RESTART: Hej, Verden!
+Message.PLAYER_ROLLED_DICE: %s slog %d og %d som samlet set er %d
+Message.PLAYER_LOST_AMOUNT: %s mister %,.2f penge 
+Message.PLAYER_GOT_AMOUNT: %s får %,.2f penge
+Message.PLAYER_TURN_NOTICE: Det er %s's tur til at kaste med terningerne. Skriv '1' for at kaste med terningerne.
+Message.PLAYER_NAME_STARTUP: Skriv et navn for spiller %d  
+Message.PLAYER_BALANCE_INFO: %s har %,.2f penge
+Message.PLAYER_EXTRA_TURN: %s får en ekstra tur
+Field.TOWER: Tårn
+Field.CRATER: Krater
+Field.PALACE_GATES: Palas
+Field.COLD_DESERT: Kold Ørken
+Field.WALLED_CITY: Væggede By
+Field.MONASTERY: Kloster
+Field.BLACK_CAVE: Sort hule
+Field.HUTS_IN_THE_MOUNTAIN: Hytter i bjergene
+Field.WEREWOLF_WALL: Ulvevæg
+Field.THE_PIT: Hullet
+Field.GOLDMINE: Guldmine
