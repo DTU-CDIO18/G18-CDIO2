@@ -1,4 +1,4 @@
-package dk.dtu.dicegame.Language;
+package dk.dtu.CDIOg18.dicegame.Language;
 
 public enum MessageKey implements LanguageKey {
     ASK_FOR_RESTART("ASK_FOR_RESTART"),
