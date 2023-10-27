@@ -56,7 +56,7 @@
              <archive>
                 <manifest>
                    <mainClass>
-                      dk.dtu.CDIOg18.dicegame.App
+                      dk.dtu.CDIOg18.dicegame.Main
                    </mainClass>
                 </manifest>
              </archive>
