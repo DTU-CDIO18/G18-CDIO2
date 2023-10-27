@@ -1,4 +1,4 @@
-package dk.dtu.dicegame;
+package dk.dtu.CDIOg18.dicegame;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
