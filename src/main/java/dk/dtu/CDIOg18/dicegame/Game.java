@@ -12,8 +12,8 @@ public class Game {
     private LanguageProcessor languageProcessor;
     Scanner scanner = new Scanner(System.in);
     private int numOfPlayers = 2;
-    private int winningAmount = 3000;
-    private double playerStartAmount = 2999;
+    private double winningAmount = 3000;
+    private double playerStartAmount = 1000;
     private boolean isRunning = false;
     private Player[] players;
     private GameManager gameManager;
@@ -131,7 +131,7 @@ public class Game {
     private void restartGame() {
 
         for (int i = 0; i < players.length; i++) {
-            players[i] = new Player(players[i].getName(), new Account(2990));
+            players[i] = new Player(players[i].getName(), new Account(playerStartAmount));
         }
 
         gameManager = new GameManager(players);
