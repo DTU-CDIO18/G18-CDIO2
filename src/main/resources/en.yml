@@ -1,0 +1,22 @@
+Message.ASK_FOR_RESTART: Would you like to restart the game? Type 1 to restart or type 2 to end the game
+Message.PLAYER_WON: %s won the game!
+Message.GAME_RESTART: The game has been restarted
+Message.PLAYER_ROLLED_DICE: %s rolled %d and %d where the sum is %d
+Message.PLAYER_LOST_AMOUNT: %s loses %,.2f money 
+Message.PLAYER_GOT_AMOUNT: %s recieves %,.2f money
+Message.PLAYER_TURN_NOTICE: It is %s's turn to roll the dice. Type '1' to throw the dice
+Message.PLAYER_NAME_STARTUP: Write a name for player %d 
+Message.PLAYER_BALANCE_INFO: %s has %,.2f money
+Message.PLAYER_EXTRA_TURN: %s gets an extra turn
+Message.PLAYER_DICE_ROLL_FAILURE: You did not type '1'. Type 1 to roll the dice
+Field.TOWER: Tower
+Field.CRATER: Crater
+Field.PALACE_GATES: Palace
+Field.COLD_DESERT: Cold Desert
+Field.WALLED_CITY: Walled City
+Field.MONASTERY: Monastery
+Field.BLACK_CAVE: Black Cave
+Field.HUTS_IN_THE_MOUNTAIN: Huts in the mountain
+Field.WEREWOLF_WALL: Werewolf Wall
+Field.THE_PIT: The Pit
+Field.GOLDMINE: Goldmine
